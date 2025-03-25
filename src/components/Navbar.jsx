@@ -15,14 +15,17 @@ import { FaFileDownload } from "react-icons/fa";
       
         <a href="#About" className=" hover:text-amber-600 " >About</a>
         <a href="#Education" className=" hover:text-amber-600 " >Education</a>
-        <a href="#Contact" className=" hover:text-amber-600 ">Contact</a>
+        <a href="#Experience" className=" hover:text-amber-600 ">Experience</a>
 
       </div>
-      <a href="" className="hover:bg-amber-400 flex bg-amber-500  rounded-2xl   items-center text-sm"> <FaFileDownload className="m-auto mb-3" />&nbsp;Download Resume</a>
-    
-    </div>
+        <a 
+          href="Resume.pdf"
+          className=" hover:bg-amber-400 flex bg-amber-500  rounded-4xl  p-2 items-center text-lg h-8 w-53 "
+        >
+          <FaFileDownload className=" items-center " /> &nbsp; Download Resume
+        </a>
+      </div>
     </>
-  )
- }
- export default Navbar
-
+  );
+}
+export default Navbar;
