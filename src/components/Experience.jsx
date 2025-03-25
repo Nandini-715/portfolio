@@ -22,7 +22,7 @@ function Experience() {
         </div>
       </div> */}
 
-      <div className="h-120 mt-5 pt-4  flex justify-around">
+      <div id="Experience" className="h-120 mt-5 pt-4  flex justify-around">
         <div className=" ml-10 w-80 bg-amber-200   rounded-2xl shadow-[18px_15px_56px_-2px_#a2a3a3] hover:shadow-[18px_15px_56px_-2px_#858585] h-110">
           <div className="w-75 ml-3 mt-2 bg-amber-300  rounded-2xl  h-70">
             <img
