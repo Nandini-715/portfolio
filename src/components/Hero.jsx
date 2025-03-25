@@ -1,6 +1,7 @@
 import { FaGithub } from "react-icons/fa";
 import { TbBrandLinkedin } from "react-icons/tb";
 import { GrDocumentCsv } from "react-icons/gr";
+import heroImage from "../assets/dp.jpg";
  function Hero (){
 
   return(
@@ -21,7 +22,7 @@ import { GrDocumentCsv } from "react-icons/gr";
       </div>
 
       <div className="flex justify-around0  w-xl h-100 mt-5  ">
-        <img className="  rounded-full  shadow-[-1px_18px_39px_-1px_rgba(0,_0,_0,_0.35)] " src="/dp.jpg" alt="" srcset="" />
+        <img className="  rounded-full  shadow-[-1px_18px_39px_-1px_rgba(0,_0,_0,_0.35)] " src={heroImage} alt="" srcset="" />
       </div>
     </div>
     
