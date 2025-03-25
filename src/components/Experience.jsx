@@ -22,8 +22,8 @@ function Experience() {
         </div>
       </div> */}
 
-      <div id="Experience" className="h-120 mt-5 pt-4  flex justify-around">
-        <div className=" ml-10 w-80 bg-amber-200   rounded-2xl shadow-[18px_15px_56px_-2px_#a2a3a3] hover:shadow-[18px_15px_56px_-2px_#858585] h-110">
+      <div id="Experience" className="h-120 mt-17 mb-17 pt-4  flex justify-around">
+        <div className=" ml-10 w-80 bg-amber-200   rounded-2xl shadow-[13px_9px_32px_-8px_#c4c4c4] h-110">
           <div className="w-75 ml-3 mt-2 bg-amber-300  rounded-2xl  h-70">
             <img
               src="https://sonnentechs.com/static/media/SONNEN-LOGO.ecc6d99ba01228f44c51.png"
@@ -35,7 +35,7 @@ function Experience() {
             <strong> Sonnen Technology</strong> , Indore M.P
           </div>
         </div>
-        <div className="w-170 bg-amber-200 h-110 rounded-2xl shadow-[18px_15px_56px_-2px_#a2a3a3]">
+        <div className="w-170 bg-amber-200 h-110 rounded-2xl shadow-[13px_9px_32px_-8px_#c4c4c4] ">
           <div className="w-165 ml-2 mt-2 text-4xl font-extrabold p-5 text-center  bg-amber-300 rounded-2xl h-20 ">
             Professional Experience
           </div>

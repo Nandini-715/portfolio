@@ -3,7 +3,7 @@ function Education() {
     <>
     <br />
       
-      <div id="Education" className="h-120 ">
+      <div id="Education" className="h-120 mt-15 mb-5 ">
         <div className="w-50 h-14 pl-3 font-extrabold  text-4xl ml-125">
           Education
         </div>
